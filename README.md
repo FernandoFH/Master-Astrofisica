@@ -2,9 +2,9 @@
 
 ### Máster Universitario en Astrofísica y Técnicas de Observación en Astronomía
 
-- DURACIÓN: 1 año académico
+- DURACIÓN: 1 Año académico
 - EXÁMENES PRESENCIALES U ONLINE
-- METODOLOGÍA Docencia 100% online
+- METODOLOGÍA Docencia 100% Online
 - CLASES ONLINE EN DIRECTO
 
 ---
