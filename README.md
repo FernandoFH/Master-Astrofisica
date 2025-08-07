@@ -41,8 +41,14 @@
 | -------- | ----------------------------------------------------------------------------- | ------ | ------- | ----------------------------------------- |
 | 27/05/25 | [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) |        | Process | [Repo](./Data-driven-Astronomy/README.md) |
 
-- [Astro 101: Black Holes](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/black-holes-astro-101?source=search#modules)
+- [Rocket Science 101 Specialization](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/specializations/rocket-science-101)
 
-- [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/astronomy-technology?source=search)
+- [Rocket Science for Everyone](https://www.coursera.org/learn/rocket-science-for-everyone)
 
-- [Rocket Science 101 Specialization](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/specializations/rocket-science-101?source=search)
+- [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/astronomy-technology)
+
+- [Astro 101: Black Holes](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/black-holes-astro-101)
+
+- [Astronomy: Exploring Time and Space](https://www.coursera.org/learn/astro)
+
+- [From the Big Bang to Dark Energy](https://www.coursera.org/learn/big-bang)
