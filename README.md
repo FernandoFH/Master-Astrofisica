@@ -37,9 +37,11 @@
 
 ---
 
-| Date     | Specialization                                                                | Course | Status  | Repo                                      |
+| Date | Specialization | Course | Status | Repo |
+| ---- | -------------- | ------ | ------ | ---- |
+
 | -------- | ----------------------------------------------------------------------------- | ------ | ------- | ----------------------------------------- |
-| 27/05/25 | [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) |        | Process | [Repo](./Data-driven-Astronomy/README.md) |
+| 27/05/25 | [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) | | Process | [Repo](./Data-driven-Astronomy/README.md) |
 
 - [Rocket Science 101 Specialization](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/specializations/rocket-science-101)
 
@@ -52,3 +54,5 @@
 - [Astronomy: Exploring Time and Space](https://www.coursera.org/learn/astro)
 
 - [From the Big Bang to Dark Energy](https://www.coursera.org/learn/big-bang)
+
+- [Understanding Einstein: The Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity)
