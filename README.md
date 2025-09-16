@@ -56,3 +56,5 @@
 - [From the Big Bang to Dark Energy](https://www.coursera.org/learn/big-bang)
 
 - [Understanding Einstein: The Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity)
+
+- [Python Data Analysis and Visualization Course – Astronomical Data](https://www.youtube.com/watch?v=H9KefzbryEw)
